@@ -24,9 +24,6 @@ public class GenerateMessageFileTest{//extends BaseJunit4Test
 //            recordIdList.add(3L);
 //            recordIdList.add(4L);
 //            recordIdList.add(5L);
-//            recordIdList.add(6L);
-//            recordIdList.add(2668L);
-//            recordIdList.add(1746L);
             recordIdList.add(8065L);
             recordIdList.add(10001L);
             recordIdList.add(10003L);
